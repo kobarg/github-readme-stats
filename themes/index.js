@@ -462,6 +462,12 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+dark_side_of_the_moon: {
+    title_color: "FF2079",
+    icon_color: "00FFF7",
+    text_color: "B0B0B0",
+    bg_color: "000000",
+    border_color: "303030",
 };
 
 export default themes;
